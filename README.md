@@ -1,11 +1,4 @@
-# Student Performance Analysis Using Multiple Linear Regression
 
-Welcome to the Student Performance Analysis project! This repository explores the fascinating relationship between various factors and student academic performance using multiple linear regression.
-
-## 📊 Overview
-
-Our goal is to uncover insights that can help educators and policymakers improve student outcomes. By analyzing a comprehensive dataset of student performance, we aim to identify key predictors of success.
-# Student Performance Analysis Using Multiple Linear Regression
 
 Welcome to the Student Performance Analysis project! This repository explores the fascinating relationship between various factors and student academic performance using multiple linear regression.
 
