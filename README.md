@@ -6,6 +6,8 @@ Welcome to the Student Performance Analysis project! This repository explores th
 
 Our goal is to uncover insights that can help educators and policymakers improve student outcomes. By analyzing a comprehensive dataset of student performance, we aim to identify key predictors of success.
 
+![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Visitor%20Count&query=value&url=https://api.countapi.xyz/hit/yourusername.yourrepo/visits)
+
 ## 🚀 Features
 
 - **Data Exploration:** Understand the dataset with descriptive statistics and visualizations.
